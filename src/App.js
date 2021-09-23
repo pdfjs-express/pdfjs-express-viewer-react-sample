@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import WebViewer from '@pdftron/pdfjs-express';
+import WebViewer from '@pdftron/pdfjs-express-viewer';
 import './App.css';
 
 const App = () => {
