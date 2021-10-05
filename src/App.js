@@ -11,6 +11,7 @@ const App = () => {
       {
         path: '/webviewer/lib',
         initialDoc: '/files/demo.pdf',
+        licenseKey: 'VMeLR5MsW5lX3X9YfqQF',
       },
       viewer.current,
     ).then((instance) => {
